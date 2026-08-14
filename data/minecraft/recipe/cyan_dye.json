@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "cyan_dye",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "lots_of_recipes:greens"
+    },
+    {
+      "tag": "lots_of_recipes:blues"
+    }
+  ],
+  "result": {
+    "id": "minecraft:cyan_dye",
+    "count": 2
+  }
+}

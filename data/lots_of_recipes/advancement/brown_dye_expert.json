@@ -1,0 +1,40 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:brown_dye"
+    },
+    "title": "Brown Dye Expert",
+    "description": "Craft brown dye using all possible recipes",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "brown_dye_expert_0": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "minecraft:brown_dye"
+      }
+    },
+    "brown_dye_expert_1": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "lots_of_recipes:brown_dye"
+      }
+    },
+    "brown_dye_expert_2": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "lots_of_recipes:brown_dye_1"
+      }
+    },
+    "brown_dye_expert_3": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "lots_of_recipes:brown_dye_2"
+      }
+    }
+  },
+  "parent": "lots_of_recipes:lots_of_recipes"
+}

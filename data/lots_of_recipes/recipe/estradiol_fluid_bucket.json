@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "reestrogen:estradiol_dye_blend"
+    },
+    {
+      "item": "reestrogen:gender_fluid_bucket"
+    }
+  ],
+  "result": {
+    "id": "reestrogen:estradiol_fluid_bucket",
+    "count": 1
+  }
+}

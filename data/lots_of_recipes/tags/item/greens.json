@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:green_dye",
+    "minecraft:cyan_dye",
+    "minecraft:lime_dye"
+  ]
+}

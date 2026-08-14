@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:paper"
+    },
+    "title": "Ugh, paperwork...",
+    "description": "Use a stonecutter to make paper",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "thats_a_lot_of_paper_0": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "lots_of_recipes:paper"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 10
+  },
+  "parent": "lots_of_recipes:lots_of_recipes"
+}
