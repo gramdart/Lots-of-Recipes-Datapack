@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "wooden_trapdoor",
+    "pattern": [
+        "aaa",
+        "aaa"
+    ],
+    "key": {
+        "a": {
+            "item": "natures_spirit:saxaul_planks"
+        }
+    },
+    "result": {
+        "item": "natures_spirit:saxaul_trapdoor",
+        "count": 6
+    }
+}
