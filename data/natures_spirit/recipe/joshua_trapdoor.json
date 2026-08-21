@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "building",
+    "group": "wooden_stairs",
+    "pattern": [
+        "aaa",
+        "aaa"
+    ],
+    "key": {
+        "a": {
+            "item": "natures_spirit:joshua_planks"
+        }
+    },
+    "result": {
+        "item": "natures_spirit:joshua_trapdoor",
+        "count": 6
+    }
+}
