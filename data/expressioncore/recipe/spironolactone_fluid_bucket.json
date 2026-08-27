@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "expression_core:spironolactone_dye_blend"
+    },
+    {
+      "item": "expression_core:gender_fluid_bucket"
+    }
+  ],
+  "result": {
+    "id": "expression_core:spironolactone_fluid_bucket",
+    "count": 1
+  }
+}
