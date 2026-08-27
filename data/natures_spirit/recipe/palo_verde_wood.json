@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "bark",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:palo_verde_log"
+    }
+  },
+  "result": {
+    "id": "minecraft:palo_verde_wood",
+    "count": 4
+  }
+}
