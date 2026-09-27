@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "spawn:blasted_sandstone"
+  },
+  "cookingtime": 100,
+  "result": {
+    "id": "spawn:smooth_blasted_sandstone"
+  },
+  "experience": "0.1"
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "create:raw_zinc_block"
+  },
+  "cookingtime": 900,
+  "result": {
+    "id": "create:zinc_block"
+  },
+  "experience": 6.3
+}
